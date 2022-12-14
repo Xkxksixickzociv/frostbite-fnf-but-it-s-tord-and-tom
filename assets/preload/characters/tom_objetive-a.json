@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TomLeft"
+		},
+		{
+			"offsets": [
+				-1,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TomDown"
+		},
+		{
+			"offsets": [
+				-1,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TomUp"
+		},
+		{
+			"offsets": [
+				2,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TomRight"
+		},
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TomIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "TomHEY!!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				272,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "TomSusanLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "TomSusanIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "TomSusanDown"
+		},
+		{
+			"offsets": [
+				-70,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "TomSusanUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "TomSusanRight"
+		},
+		{
+			"offsets": [
+				230,
+				10
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "startup",
+			"indices": [],
+			"name": "TomSusanStartup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tom-exe",
+	"position": [
+		-40,
+		67
+	],
+	"healthicon": "tom1",
+	"flip_x": true,
+	"healthbar_colors": [
+		55,
+		22,
+		206
+	],
+	"camera_position": [
+		-290,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
